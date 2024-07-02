@@ -1,0 +1,29 @@
+.card{
+  border: 1px solid rgb(97, 95, 95);
+  border-radius: 1px;
+  box-shadow: 5px 5px 5px rgba(195, 120, 120, 0.498);
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  max-width: 250px;
+  display: inline-block;
+}
+
+.card .card-image{
+  max-height: 60%;
+  height: auto;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.card .card-title{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  color:rgba(133, 39, 39, 0.774) ;
+}
+
+.card .card-text{
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(191, 119, 30);
+
+}
